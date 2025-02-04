@@ -3,3 +3,4 @@ opencv-python>=4.5.5
 numpy>=1.19.5
 face_recognition>=1.3.0
 Pillow>=8.2.0
+cv2
