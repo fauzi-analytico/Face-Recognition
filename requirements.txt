@@ -1,6 +1,7 @@
+streamlit>=1.0
 opencv-python-headless>=4.5.5
 numpy>=1.19.5
 face_recognition>=1.3.0
-cmake
-dlib>=19.22.0
+cmake>=3.21.0
+dlib==19.24.0
 Pillow>=8.2.0
